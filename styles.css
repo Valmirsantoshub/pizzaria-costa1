@@ -21,7 +21,7 @@ body {
 
 .header-content {
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .logo {
@@ -148,7 +148,7 @@ body {
 }
 
 .modal-content {
-    background-color: white;
+    background-color: rgb(10, 10, 10);
     padding: 1.25rem;
     border-radius: 0.5rem;
     min-width: 90%;
